@@ -25,14 +25,14 @@ title:                 Ha-eun Yu
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  For study records
-  
+  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Geopyhsical Satellite Exploration Laboratory
+tagline:               For study records
 
 # A list of keywords for your blog
-keywords:              [Geophysice; Magnetic anomaly; Antarctica; Satellite; AI]
+keywords:              [Geophisice, Satellite]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -80,8 +80,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
